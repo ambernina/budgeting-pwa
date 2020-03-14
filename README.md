@@ -1,6 +1,3 @@
-# Deployed Link
-https://infinite-depths-76028.herokuapp.com/
-
 # Online/Offline Budget Tracker
 
 This is a straightforward budgeting Progressive Web App with online/offline capability. 
@@ -10,6 +7,9 @@ This is a straightforward budgeting Progressive Web App with online/offline capa
 The user is able to add or subtract funds to their account and the chart shows their cash flow. The user is also able to see all transactions that they have entered with their corresponding amounts.
 
 As stated before, this is a PWA and also has offline capability. So if a user were to, say, go on an airplane, and they didn't want to pay for crazy expensive Wi-Fi, but also had been keeping track of their cash flow with this app, they would be able to continue using the app on their phone while in airplane mode.
+
+# Deployed Link
+https://infinite-depths-76028.herokuapp.com/
 
 # Installation
 
